@@ -1,5 +1,3 @@
-VBA
-===
+Dedicated to the loved girl xinlanhuang, ever never.
+It is doomed to forget to grow up
 
-a tool for merging  excel worksheet
-version 2 add a function to split all worksheets in one workbook into different workbook
